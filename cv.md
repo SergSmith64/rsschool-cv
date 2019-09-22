@@ -33,6 +33,7 @@ Over the years, I mastered and with great pleasure I work in:
 * SubLime
 * phpStorm
 * VS Code
+  
 But most of all I was surprised when I met with Microsoft Visual Studio Community!
 
 I had to perform functions Product Manager (PM), Team-Lead, Site Administrator, Designer, Programmer, Content Manager and SEO optimizer. I also had to completely negotiate with the customer, and calculate the price of developing the site.

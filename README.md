@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sergsmith64.github.io/rsschool-cv/cv
