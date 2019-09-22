@@ -4,11 +4,14 @@
 Sergei Kuznetcov
 
 ## 2. Contact Info
-Email: [SergSmith2008@yandex.ru](mailto:SergSmith2008@yandex.ru)
-Phone: [+7-917-215-7022]
-GitHub: [link](https://github.com/SergSmith64)
-Linkedin: [link](https://www.linkedin.com/in/sergei-kuznetcov-952971121/)
-Upwork: [link](https://www.upwork.com/fl/sergeikuznetcov2/)
+
+item | link
+------------ | -------------------------------
+Phone: | +7-917-215-7022
+Email: | [SergSmith2008@yandex.ru](mailto:SergSmith2008@yandex.ru)
+GitHub: | [https://github.com/SergSmith64](https://github.com/SergSmith64)
+Linkedin: | [https://www.linkedin.com/in/sergei-kuznetcov-952971121/](https://www.linkedin.com/in/sergei-kuznetcov-952971121/)
+Upwork: | [https://www.upwork.com/fl/sergeikuznetcov2/](https://www.upwork.com/fl/sergeikuznetcov2/)
 
 ## 3. Summary
 
@@ -31,21 +34,22 @@ Now I want to devote myself exclusively to development and projects.
 
 ## 6. Experience
 
-1. **Develor & Design Wordpress Themes**:
-  * [111 spices - Russia]:ru:(https://xn--111-tddpg3bp1c.xn--p1ai/)
-  * [DragMetal - Russia]:ru:(https://drm64.ru)
-  * [SinGulf Global - Singapore]:singapore:(http://singulf.com)
-  * [Dating - Romania]:romania:(http//datingromania.eu)
+1. **Develor, Design & Modify Wordpress Themes**:
+  * [111 spices - Russia] :ru: (https://xn--111-tddpg3bp1c.xn--p1ai/)
+  * [DragMetal - Russia] :ru: (https://drm64.ru)
+  * [SinGulf Global - Singapore] :singapore: (http://singulf.com)
+  * [Dating - Romania] :romania: (http://datingromania.eu)
 
 2. **Develop & Design Landign Page and Corporate Sites**:
-  * [InOut Labs - Spain]:es:(http://www.inoutlabs.es)
-  * [Israeli dentistry in Moscow - Israel]:israel:(https://isramedmoscow.ru)
-  * [Real Beton - Russia]:ru:(http://xn--80ackc2aogkx.xn--p1ai/)
-  * [Svoi Dom - Russia]:ru:(https://svoi-dom.info)
-  * [ArtPress Advertising Company - Russia]:ru:(http://artpress.biz)
-  * [Polyteh-Service - Russia]:ru:(https://polytehservice.ru)
-  * [Construction Materials - Russia]:ru:(http://xn--80aaig7bedlbdji1c.xn--p1ai)
-  * [Study in Germany - Germany]:de:(http://study.germanylife.ru)
+  * [InOut Labs - Spain] :es: (http://www.inoutlabs.es)
+  * [Israeli dentistry in Moscow - Israel] :israel: (https://isramedmoscow.ru)
+  * [Real Beton - Russia] :ru: (http://xn--80ackc2aogkx.xn--p1ai/)
+  * [Svoi Dom - Russia] :ru: (https://svoi-dom.info)
+  * [ArtPress Advertising Company - Russia] :ru: (http://artpress.biz)
+  * [Polyteh-Service - Russia] :ru: (https://polytehservice.ru)
+  * [Construction Materials - Russia] :ru: (http://xn--80aaig7bedlbdji1c.xn--p1ai)
+  * [Study in Germany - Germany] :de: (http://study.germanylife.ru)
+  * [Creating A Modern Adaptive Sites] :ru: (https://sergsmith64.ru)
 
 ## 7. Education
 
